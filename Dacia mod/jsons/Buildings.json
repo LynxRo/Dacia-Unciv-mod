@@ -1,0 +1,25 @@
+[
+	{
+		"name": "Dacian Walls",
+		"replaces": "Walls",
+		"cost": 100,
+		"uniqueTo": "Dacia",
+		"cityStrength": 6,
+		"cityHealth": 70,
+		"hurryCostModifier": 25,
+		"requiredTech": "Masonry"
+	},
+	{	
+		"name": "Solar Disk Sanctuary",
+		"replaces": "Temple",
+		"cost": 80,
+		"uniqueTo": "Dacia",
+		"maintenance": 2,
+		"culture": 3,
+		"science": 1,
+		"specialistSlots": {"science": 1},
+		"requiredBuilding": "Monument",
+		"hurryCostModifier": 25,
+		"requiredTech": "Calendar"
+	}
+]

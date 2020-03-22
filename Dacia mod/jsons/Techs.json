@@ -1,0 +1,25 @@
+[
+	{
+		"columnNumber": 2,
+		"era": "Ancient",
+		"techCost": 55,
+		"buildingCost": 75,
+		"wonderCost": 185,
+		"techs": [
+			{
+				"name": "Masonry",
+				"row": 9,
+				"prerequisites": [
+					"Mining"
+				],
+				"quote": "'How happy are those whose walls already rise!' - Virgil"
+			},
+			{
+				"name": "Calendar",
+				"row": 2,
+				"prerequisites": ["Pottery"],
+				"quote": "'So teach us to number our days, so that we may apply our hearts unto wisdom.' - Bible Psalms 90:12"
+			}
+		]
+	}
+]
