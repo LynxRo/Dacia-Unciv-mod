@@ -9,16 +9,16 @@
 		"startIntroPart2": "TBA",
 
 		"declaringWar": "Enough! It's time for you to perish from these lands!",
-		"attacked": "Your people won't stand my great army. You'll regret.",
-		"defeated": "No, no, no... I am NOT losing! Not like this! May the gods destroy you.",
+		"attacked": "War? You think you can stand us.?",
+		"defeated": "No, no, no... I am NOT losing! Not like this!",
 		"introduction": "Hello there. I am Decebalus, king of Dacia, and I welcome you in my kingdom.",
 
-		"neutralHello": "Hey, friend.",
+		"neutralHello": "Hi, friend.",
 		"hateHello": "What hell you want?",
 
 		"tradeRequest": "Let's have a little trade. What do you say?",
 
-		"outerColor": [198,154,106], //245,195,95 196,155,116
+		"outerColor": [195,156,110], //245,195,95 196,155,116
 		"innerColor": [158,2,10], //185,75,55 158,2,10
 		//"unique": "HELLENIC_LEAGUE",
 		"cities": ["Sarmizegetusa","Sucidava","Arcidava","Napoca","Pelendava","Drubeta","Ziridava","Dacidava","Petrodava","Apulum",
