@@ -1,22 +1,22 @@
 [
 	{
 		"name": "Dacia",
-		"leaderName": "Decebalus",
+		"leaderName": "Burebista",
 		"adjective": ["Dacian"],
 		"preferredVictoryType": "Cultural",
 
 		"startIntroPart1": "TBA",
 		"startIntroPart2": "TBA",
 
-		"declaringWar": "Enough! It's time for you to perish from these lands!",
-		"attacked": "War? You think you can stand us.?",
-		"defeated": "No, no, no... I am NOT losing! Not like this!",
-		"introduction": "Hello there. I am Decebalus, king of Dacia, and I welcome you in my kingdom.",
+		"declaringWar": "Your nation has no place here. I declare war.",
+		"attacked": "War? You think you can stand us?",
+		"defeated": "So... Dacia is gone. I hope we will be remembered.",
+		"introduction": "Hello there. I am Burebita, king of Dacia, and I welcome you in my kingdom.",
 
-		"neutralHello": "Hi, friend.",
-		"hateHello": "What hell you want?",
+		"neutralHello": "Hello, friend.",
+		"hateHello": "Oh, you. What is it?",
 
-		"tradeRequest": "Let's have a little trade. What do you say?",
+		"tradeRequest": "Let's have a trade. What do you say?",
 
 		"outerColor": [195,156,110], //245,195,95 196,155,116
 		"innerColor": [158,2,10], //185,75,55 158,2,10
