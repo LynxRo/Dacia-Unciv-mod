@@ -11,7 +11,7 @@
 		"declaringWar": "Your nation has no place here. I declare war.",
 		"attacked": "War? You think you can stand us?",
 		"defeated": "So... Dacia is gone. I hope we will be remembered.",
-		"introduction": "Hello there. I am Burebita, king of Dacia, and I welcome you in my kingdom.",
+		"introduction": "Hello there. I am Burebista, king of Dacia, and I welcome you in my kingdom.",
 
 		"neutralHello": "Hello, friend.",
 		"hateHello": "Oh, you. What is it?",
@@ -20,7 +20,7 @@
 
 		"outerColor": [195,156,110], //245,195,95 196,155,116
 		"innerColor": [158,2,10], //185,75,55 158,2,10
-		//"unique": "HELLENIC_LEAGUE",
+		"unique": "GLORY_OF_ROME",
 		"cities": ["Sarmizegetusa","Sucidava","Arcidava","Napoca","Pelendava","Drubeta","Ziridava","Dacidava","Petrodava","Apulum",
 			"Piroboridava","Argedava","Deva","Tamasidava","Patridava","Dierna","Praetorium","Potaissa","Germisara","Tyras",
 			"Dinogetia","Tibiscum","Ulpianum","Noviodunum","Troesmis","Porolissum","Tiasum","Carsidava","Sacidava","Dokidava",
