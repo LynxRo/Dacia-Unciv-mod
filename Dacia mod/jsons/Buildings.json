@@ -11,14 +11,13 @@
 	},
 	{	
 		"name": "Solar Disk Sanctuary",
-		"replaces": "Temple",
-		"cost": 80,
+		"cost": 60,
 		"uniqueTo": "Dacia",
 		"maintenance": 2,
-		"culture": 3,
+		"culture": 2,
 		"science": 1,
 		"specialistSlots": {"science": 1},
-		"requiredBuilding": "Monument",
+		"requiredBuilding": "Stone Works",
 		"hurryCostModifier": 25,
 		"requiredTech": "Calendar"
 	}
