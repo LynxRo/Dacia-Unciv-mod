@@ -20,7 +20,7 @@
 
 		"outerColor": [195,156,110], //245,195,95 196,155,116
 		"innerColor": [158,2,10], //185,75,55 158,2,10
-		"unique": "Royal Glory",
+		"uniqueName": "Royal Glory",
 		"uniques": ["-[25]% [Land] unit maintenance costs", "+10% Strength for all units during Golden Age"],
 		"cities": ["Sarmizegetusa","Sucidava","Arcidava","Napoca","Pelendava","Drubeta","Ziridava","Dacidava","Petrodava","Apulum",
 			"Piroboridava","Argedava","Deva","Tamasidava","Patridava","Dierna","Praetorium","Potaissa","Germisara","Tyras",
