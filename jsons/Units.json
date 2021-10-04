@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Falx Warrior",
-		"unitType": "Melee",
+		"unitType": "Meele",
 		"uniqueTo": "Dacia",
 		"replaces": "Swordsman",
 		"movement": 2,
